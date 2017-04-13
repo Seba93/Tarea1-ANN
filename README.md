@@ -1,2 +1,5 @@
-# Tarea1-ANN
-Tarea 1 de Redes Neuronales Artificiales
+# Redes Neuronales Artificiales: Tarea 1
+
+Integrantes:
+- Rodrigo Sepúlveda
+- Sebastián Vergara
